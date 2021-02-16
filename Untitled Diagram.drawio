@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-16T15:59:06.390Z" agent="5.0 (X11)" etag="wOyaoGmMPunnrw_8gfJ-" version="14.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-16T16:01:59.445Z" agent="5.0 (X11)" etag="l-nSH2Yhd3NaFdH2YI0K" version="14.3.2" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="981" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -114,8 +114,8 @@
         <mxCell id="40GGkk0t6mN_fzsmlvxg-9" value="Login Case" style="shape=umlFrame;whiteSpace=wrap;html=1;width=70;height=30;" vertex="1" parent="1">
           <mxGeometry x="200" y="450" width="640" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="40GGkk0t6mN_fzsmlvxg-13" value="Prospect" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
-          <mxGeometry x="240" y="20" width="110" height="50" as="geometry" />
+        <mxCell id="40GGkk0t6mN_fzsmlvxg-14" value="Prospect" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="100" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
