@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T10:38:02.374Z" agent="5.0 (X11)" etag="Hx7eIiBOtQ-pKrEHfWSP" version="14.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-17T11:09:59.786Z" agent="5.0 (X11)" etag="il0q1g4HcjlErzyK5PzT" version="14.3.2" type="github" pages="2">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="950" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Qrh7UDhce4LaqNej2hnX-8" value="Lite Registration Case" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=30;" vertex="1" parent="1">
-          <mxGeometry x="200" y="140" width="640" height="140" as="geometry" />
+          <mxGeometry x="30" y="140" width="170" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Qrh7UDhce4LaqNej2hnX-9" value="&lt;span&gt;POST: accounts.setAccountInfo&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.366;exitY=-0.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.043;entryY=0.746;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Qrh7UDhce4LaqNej2hnX-2">
           <mxGeometry width="80" relative="1" as="geometry">
