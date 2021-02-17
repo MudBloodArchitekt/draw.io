@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T09:47:30.977Z" agent="5.0 (X11)" etag="uQOZgPqn17Sd4tdM9d4r" version="14.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-17T10:28:27.257Z" agent="5.0 (X11)" etag="Z-BSIgQL7sGxDSt7mFSA" version="14.3.2" type="github" pages="2">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1146" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="950" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,22 +126,23 @@
         <mxCell id="Qrh7UDhce4LaqNej2hnX-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="284" y="180" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Qrh7UDhce4LaqNej2hnX-4" value="login()" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.328;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Qrh7UDhce4LaqNej2hnX-3">
+        <mxCell id="Qrh7UDhce4LaqNej2hnX-4" value="Lite Register" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.328;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Qrh7UDhce4LaqNej2hnX-3">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="299" y="180" as="sourcePoint" />
             <mxPoint x="449.5" y="180.79999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qrh7UDhce4LaqNej2hnX-5" value="accounts.login" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.366;exitY=-0.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Qrh7UDhce4LaqNej2hnX-1">
+        <mxCell id="Qrh7UDhce4LaqNej2hnX-5" value="&lt;span&gt;GET: accounts.initRegistration&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.366;exitY=-0.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Qrh7UDhce4LaqNej2hnX-1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="460" y="180" as="sourcePoint" />
             <mxPoint x="729.5" y="179.44000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qrh7UDhce4LaqNej2hnX-6" value="OK" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.917;entryY=0.605;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.021;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Qrh7UDhce4LaqNej2hnX-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="258" as="sourcePoint" />
-            <mxPoint x="454.16999999999985" y="258.4000000000001" as="targetPoint" />
+        <mxCell id="Qrh7UDhce4LaqNej2hnX-6" value="OK" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.917;entryY=0.605;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.021;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.2236" y="1" relative="1" as="geometry">
+            <mxPoint x="725.21" y="207.36" as="sourcePoint" />
+            <mxPoint x="454.16999999999985" y="208.4000000000001" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qrh7UDhce4LaqNej2hnX-7" value="OK" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.948;entryY=0.674;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.09;exitY=0.665;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
@@ -150,8 +151,21 @@
             <mxPoint x="293.48" y="259.91999999999985" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qrh7UDhce4LaqNej2hnX-8" value="Login Case" style="shape=umlFrame;whiteSpace=wrap;html=1;width=70;height=30;" vertex="1" parent="1">
-          <mxGeometry x="200" y="150" width="640" height="130" as="geometry" />
+        <mxCell id="Qrh7UDhce4LaqNej2hnX-8" value="liteREeg Case" style="shape=umlFrame;whiteSpace=wrap;html=1;width=70;height=30;" vertex="1" parent="1">
+          <mxGeometry x="60" y="150" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrh7UDhce4LaqNej2hnX-9" value="&lt;span&gt;POST: accounts.setAccountInfo&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.366;exitY=-0.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.043;entryY=0.746;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Qrh7UDhce4LaqNej2hnX-2">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="455.00000000000006" y="239.99999999999994" as="sourcePoint" />
+            <mxPoint x="726" y="238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qrh7UDhce4LaqNej2hnX-10" value="OK:Json {...UID} " style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.917;entryY=0.605;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.021;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="-0.2236" y="1" relative="1" as="geometry">
+            <mxPoint x="725.2100000000003" y="259.36" as="sourcePoint" />
+            <mxPoint x="454.16999999999985" y="260.4000000000002" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
