@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T13:23:13.517Z" agent="5.0 (X11)" etag="4XTFwTi_1wkLVhXX1UHg" version="14.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-19T13:25:30.253Z" agent="5.0 (X11)" etag="si1VTjNdDMxhb7sgn6eN" version="14.3.2" type="github" pages="2">
   <diagram name=" SeqDiagram-CX-VOO-CDC" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1221" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -317,8 +317,8 @@
             <mxPoint x="423" y="519" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QxJ3SDp2spaRBhxeKY4I-6" value="Extension: BeforeAccountLogin" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.9;entryY=0.525;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GJqlhvrMdwDHVoViguF4-1" source="2sLSqvcLjiySkRemYsTM-1" target="2sLSqvcLjiySkRemYsTM-1">
-          <mxGeometry x="0.0841" y="57" relative="1" as="geometry">
+        <mxCell id="QxJ3SDp2spaRBhxeKY4I-6" value="Extension: BeforeAccountLogin" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.9;entryY=0.525;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="GJqlhvrMdwDHVoViguF4-1" source="2sLSqvcLjiySkRemYsTM-1" target="2sLSqvcLjiySkRemYsTM-1">
+          <mxGeometry x="0.0841" y="77" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -360,6 +360,12 @@
         <mxCell id="QxJ3SDp2spaRBhxeKY4I-23" value="account.getAccountInfo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QxJ3SDp2spaRBhxeKY4I-22">
           <mxGeometry x="-0.2615" y="2" relative="1" as="geometry">
             <mxPoint x="11" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QxJ3SDp2spaRBhxeKY4I-24" value="Account Info" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.2;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GJqlhvrMdwDHVoViguF4-1" target="QxJ3SDp2spaRBhxeKY4I-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="407" y="639" as="sourcePoint" />
+            <mxPoint x="220" y="639" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
