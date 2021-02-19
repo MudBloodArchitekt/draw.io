@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T14:16:03.479Z" agent="5.0 (X11)" etag="FGdozL5lhuuKFmQ1iuxz" version="14.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-19T14:45:23.164Z" agent="5.0 (X11)" etag="JDGz8wfRzcsyhlUrjoib" version="14.3.2" type="github" pages="2">
   <diagram name=" SeqDiagram-CX-VOO-CDC" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1221" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -369,7 +369,7 @@
             <mxPoint x="220" y="639" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QxJ3SDp2spaRBhxeKY4I-27" value="As SAP CDC Needs in a certain time during the Purchase process THE SAP10 AKA RelatedParty for legacy customers&lt;br&gt;we will use the Extension: BeforeAccountLogin&lt;br&gt;To Notify VOO BO to set Account Info via the &lt;b&gt;UID &lt;/b&gt;into SAP CDC" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="GJqlhvrMdwDHVoViguF4-1">
+        <mxCell id="QxJ3SDp2spaRBhxeKY4I-27" value="As SAP CDC Needs in a certain time during the Purchase process THE SAP10 aka RelatedParty for legacy customers&lt;br&gt;we will use the Extension: BeforeAccountLogin&lt;br&gt;To Notify VOO BO in Order to update Customer Account Info via the &lt;b&gt;UID &lt;/b&gt;into SAP CDC" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="GJqlhvrMdwDHVoViguF4-1">
           <mxGeometry x="810" y="160" width="320" height="260" as="geometry" />
         </mxCell>
       </root>
