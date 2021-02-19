@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T13:53:59.761Z" agent="5.0 (X11)" etag="XVNACiyZPLktMAJo1UG0" version="14.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-19T14:14:39.753Z" agent="5.0 (X11)" etag="2RIbRlUBrj72sY3AbRhl" version="14.3.2" type="github" pages="2">
   <diagram name=" SeqDiagram-CX-VOO-CDC" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1221" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -217,12 +217,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rj5MmifftTu9GuvsDzbs" name="OPIDC-GetIndivInfo">
-    <mxGraphModel dx="2378" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1528" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GJqlhvrMdwDHVoViguF4-0" />
         <mxCell id="GJqlhvrMdwDHVoViguF4-1" parent="GJqlhvrMdwDHVoViguF4-0" />
         <mxCell id="HqLP_BtpdHTX5Zx0e452-0" value=":SAP CX" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="GJqlhvrMdwDHVoViguF4-1">
-          <mxGeometry x="160" y="80" width="100" height="660" as="geometry" />
+          <mxGeometry x="160" y="80" width="100" height="600" as="geometry" />
         </mxCell>
         <mxCell id="HqLP_BtpdHTX5Zx0e452-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="HqLP_BtpdHTX5Zx0e452-0">
           <mxGeometry x="45" y="100" width="10" height="250" as="geometry" />
@@ -231,7 +231,7 @@
           <mxGeometry x="45" y="480" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HqLP_BtpdHTX5Zx0e452-9" value=":SAP CDC" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="GJqlhvrMdwDHVoViguF4-1">
-          <mxGeometry x="363" y="80" width="100" height="680" as="geometry" />
+          <mxGeometry x="363" y="80" width="100" height="600" as="geometry" />
         </mxCell>
         <mxCell id="HqLP_BtpdHTX5Zx0e452-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="HqLP_BtpdHTX5Zx0e452-9">
           <mxGeometry x="45" y="110" width="10" height="240" as="geometry" />
@@ -240,7 +240,7 @@
           <mxGeometry x="44" y="480" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HqLP_BtpdHTX5Zx0e452-12" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="GJqlhvrMdwDHVoViguF4-1">
-          <mxGeometry x="50" y="80" width="20" height="660" as="geometry" />
+          <mxGeometry x="50" y="80" width="20" height="600" as="geometry" />
         </mxCell>
         <mxCell id="HqLP_BtpdHTX5Zx0e452-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="HqLP_BtpdHTX5Zx0e452-12">
           <mxGeometry x="5" y="100" width="10.42" height="250" as="geometry" />
@@ -251,7 +251,7 @@
         <mxCell id="HqLP_BtpdHTX5Zx0e452-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="HqLP_BtpdHTX5Zx0e452-46">
           <mxGeometry x="45" y="110" width="10" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="HqLP_BtpdHTX5Zx0e452-50" value=":BO VOO" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="GJqlhvrMdwDHVoViguF4-1">
+        <mxCell id="HqLP_BtpdHTX5Zx0e452-50" value=":VOO BO " style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="GJqlhvrMdwDHVoViguF4-1">
           <mxGeometry x="720" y="80" width="100" height="440" as="geometry" />
         </mxCell>
         <mxCell id="HqLP_BtpdHTX5Zx0e452-51" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="HqLP_BtpdHTX5Zx0e452-50">
@@ -369,14 +369,8 @@
             <mxPoint x="220" y="639" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QxJ3SDp2spaRBhxeKY4I-25" value="&lt;div&gt;At this moment Sap CX request &lt;b&gt;account.getAccountInfo&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="GJqlhvrMdwDHVoViguF4-1">
-          <mxGeometry x="-240" y="450" width="190" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QxJ3SDp2spaRBhxeKY4I-26" value="Set Account Info for a legacy Customer in SAP CDC" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="GJqlhvrMdwDHVoViguF4-1">
-          <mxGeometry x="830" y="550" width="190" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QxJ3SDp2spaRBhxeKY4I-27" value="As SAP CDC Needs in a certain time of the Purchase process THE SAP10 AKA RelatedParty" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="GJqlhvrMdwDHVoViguF4-1">
-          <mxGeometry x="810" y="230" width="270" height="80" as="geometry" />
+        <mxCell id="QxJ3SDp2spaRBhxeKY4I-27" value="As SAP CDC Needs in a certain time during the Purchase process THE SAP10 AKA RelatedParty for legacy customers&lt;br&gt;we will use the Extension: BeforeAccountLogin&lt;br&gt;To Notify VOO BO to set Account Info via the &lt;b&gt;UID &lt;/b&gt;into SAP CDC" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="GJqlhvrMdwDHVoViguF4-1">
+          <mxGeometry x="810" y="160" width="320" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
