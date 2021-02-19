@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T13:25:30.253Z" agent="5.0 (X11)" etag="si1VTjNdDMxhb7sgn6eN" version="14.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-19T13:48:34.121Z" agent="5.0 (X11)" etag="8bHrENTpaXhyBrmo5S5o" version="14.3.2" type="github" pages="2">
   <diagram name=" SeqDiagram-CX-VOO-CDC" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1221" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -217,7 +217,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rj5MmifftTu9GuvsDzbs" name="OPIDC-GetIndivInfo">
-    <mxGraphModel dx="1528" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2378" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GJqlhvrMdwDHVoViguF4-0" />
         <mxCell id="GJqlhvrMdwDHVoViguF4-1" parent="GJqlhvrMdwDHVoViguF4-0" />
@@ -367,6 +367,9 @@
             <mxPoint x="407" y="639" as="sourcePoint" />
             <mxPoint x="220" y="639" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QxJ3SDp2spaRBhxeKY4I-25" value="&lt;div&gt;At this moment Sap CX request &lt;b&gt;account.getAccountInfo&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="GJqlhvrMdwDHVoViguF4-1">
+          <mxGeometry x="-240" y="450" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
