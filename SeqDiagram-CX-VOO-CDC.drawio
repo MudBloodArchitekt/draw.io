@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T09:15:37.222Z" agent="5.0 (X11)" etag="nNieEFnaun12I86QyYys" version="14.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-19T09:17:14.287Z" agent="5.0 (X11)" etag="ZDwmqA7hJC2YhbfPgB5y" version="14.3.2" type="github" pages="2">
   <diagram name=" SeqDiagram-CX-VOO-CDC" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="800" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -108,14 +108,14 @@
             <mxPoint x="455" y="521.1199999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="40GGkk0t6mN_fzsmlvxg-8" value="OK" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.021;exitY=0.76;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.917;entryY=0.88;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="40GGkk0t6mN_fzsmlvxg-8" value="User Info Updated" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.021;exitY=0.76;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.917;entryY=0.88;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="725.21" y="648.8000000000001" as="sourcePoint" />
             <mxPoint x="594.1699999999998" y="648.8000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="40GGkk0t6mN_fzsmlvxg-9" value="Login Case" style="shape=umlFrame;whiteSpace=wrap;html=1;width=70;height=30;" parent="1" vertex="1">
-          <mxGeometry x="120" y="680" width="40" height="160" as="geometry" />
+          <mxGeometry x="160" y="680" width="680" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Qrh7UDhce4LaqNej2hnX-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="445" y="160" width="10" height="240" as="geometry" />
