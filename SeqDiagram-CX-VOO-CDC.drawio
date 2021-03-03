@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T13:58:10.085Z" agent="5.0 (X11)" etag="LKV-Vg7rnUGvG7knzUzH" version="14.4.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-03T13:59:19.534Z" agent="5.0 (X11)" etag="gHZELx71prwnF6rXAqda" version="14.4.2" type="github" pages="4">
   <diagram name=" SeqDiagram-CX-VOO-CDC" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1590" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -545,7 +545,7 @@
         <mxCell id="WSzwoScoLJKDT1ZZIOws-17" value="Login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
           <mxGeometry x="110" y="161" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WSzwoScoLJKDT1ZZIOws-18" value="/product" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-18" value="&lt;b&gt;/product&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
           <mxGeometry x="280" y="228" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WSzwoScoLJKDT1ZZIOws-33" value="&lt;b&gt;return List of subscribed Products&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="N79oA5ZzZffghEJr7JX8-1">
