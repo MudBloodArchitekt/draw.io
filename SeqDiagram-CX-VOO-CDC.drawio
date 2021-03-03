@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T14:12:31.089Z" agent="5.0 (X11)" etag="1uSHFE88edti-hERfDTR" version="14.4.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-03T14:59:11.103Z" agent="5.0 (X11)" etag="Y8EPZdlo_E8l4c1PVs_0" version="14.4.2" type="github" pages="4">
   <diagram name=" SeqDiagram-CX-VOO-CDC" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1590" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -549,9 +549,10 @@
           <mxGeometry x="280" y="228" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WSzwoScoLJKDT1ZZIOws-33" value="&lt;b&gt;return List of subscribed Products&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="N79oA5ZzZffghEJr7JX8-1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0526" y="-9" relative="1" as="geometry">
             <mxPoint x="410" y="299" as="sourcePoint" />
             <mxPoint x="220" y="299" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WSzwoScoLJKDT1ZZIOws-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
@@ -609,8 +610,8 @@
         <mxCell id="WSzwoScoLJKDT1ZZIOws-50" value="Get OR Create Subscription Base :&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Creation of the Access Subscription and link it to the Billing Account&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Creation of the Billing Agreement and linking it to the Billing Account" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
           <mxGeometry x="540" y="380" width="410" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="WSzwoScoLJKDT1ZZIOws-51" value="Create Subscribed Product :&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Creation of the Billing Agreement Item to the subscribed product and link it to the subscribed Product" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
-          <mxGeometry x="540" y="515" width="440" height="70" as="geometry" />
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-51" value="Check if Subscribed Products Exist&lt;br&gt;IF YES &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; -&amp;gt; Remove Subscribed Products and all linked items&lt;br&gt;ELSE&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; -&amp;gt; Create Subscribed Product &amp;amp; Creation of the Billing Agreement Item to the subscribed product and link it to the subscribed Product" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
+          <mxGeometry x="540" y="515" width="440" height="165" as="geometry" />
         </mxCell>
         <mxCell id="WSzwoScoLJKDT1ZZIOws-54" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="N79oA5ZzZffghEJr7JX8-1" source="WSzwoScoLJKDT1ZZIOws-50">
           <mxGeometry x="1" relative="1" as="geometry">
