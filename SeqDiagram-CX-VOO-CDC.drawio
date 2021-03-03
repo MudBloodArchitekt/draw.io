@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T13:29:21.734Z" agent="5.0 (X11)" etag="OkIpKWiUoO-tuyt7T4zB" version="14.4.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-03T09:54:46.361Z" agent="5.0 (X11)" etag="Q-ruDX9sCOX1zU62AfNf" version="14.4.2" type="github" pages="4">
   <diagram name=" SeqDiagram-CX-VOO-CDC" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1590" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -503,6 +503,47 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VhWggBSa0w0BUi2lRx0n" name="subscriptions">
+    <mxGraphModel dx="1590" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="N79oA5ZzZffghEJr7JX8-0" />
+        <mxCell id="N79oA5ZzZffghEJr7JX8-1" parent="N79oA5ZzZffghEJr7JX8-0" />
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-0" value=":SAP CX" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
+          <mxGeometry x="160" y="80" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WSzwoScoLJKDT1ZZIOws-0">
+          <mxGeometry x="45" y="100" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-3" value=":VOO BO" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
+          <mxGeometry x="363" y="80" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-6" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
+          <mxGeometry x="50" y="80" width="20" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WSzwoScoLJKDT1ZZIOws-6">
+          <mxGeometry x="5" y="100" width="10.42" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="N79oA5ZzZffghEJr7JX8-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="180" as="sourcePoint" />
+            <mxPoint x="205" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="N79oA5ZzZffghEJr7JX8-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="191" as="sourcePoint" />
+            <mxPoint x="408" y="191" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-17" value="Login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
+          <mxGeometry x="110" y="161" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-18" value="account.login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
+          <mxGeometry x="255" y="160" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
