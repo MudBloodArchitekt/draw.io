@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T13:59:19.534Z" agent="5.0 (X11)" etag="gHZELx71prwnF6rXAqda" version="14.4.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-03T14:12:31.089Z" agent="5.0 (X11)" etag="1uSHFE88edti-hERfDTR" version="14.4.2" type="github" pages="4">
   <diagram name=" SeqDiagram-CX-VOO-CDC" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1590" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -508,7 +508,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VhWggBSa0w0BUi2lRx0n" name="subscriptions">
-    <mxGraphModel dx="1097" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1153" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="N79oA5ZzZffghEJr7JX8-0" />
         <mxCell id="N79oA5ZzZffghEJr7JX8-1" parent="N79oA5ZzZffghEJr7JX8-0" />
@@ -516,7 +516,7 @@
           <mxGeometry x="160" y="80" width="100" height="600" as="geometry" />
         </mxCell>
         <mxCell id="WSzwoScoLJKDT1ZZIOws-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="WSzwoScoLJKDT1ZZIOws-0">
-          <mxGeometry x="45" y="100" width="10" height="450" as="geometry" />
+          <mxGeometry x="45" y="100" width="10" height="340" as="geometry" />
         </mxCell>
         <mxCell id="WSzwoScoLJKDT1ZZIOws-3" value=":VOO BO" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
           <mxGeometry x="363" y="80" width="100" height="600" as="geometry" />
@@ -542,8 +542,8 @@
             <mxPoint x="410" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WSzwoScoLJKDT1ZZIOws-17" value="Login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
-          <mxGeometry x="110" y="161" width="40" height="20" as="geometry" />
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-17" value="After Login success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
+          <mxGeometry x="70" y="161" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WSzwoScoLJKDT1ZZIOws-18" value="&lt;b&gt;/product&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
           <mxGeometry x="280" y="228" width="60" height="20" as="geometry" />
@@ -596,6 +596,41 @@
             <Array as="points">
               <mxPoint x="240" y="450" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-47" value="Get OR Create a Billing Account :&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Link the Billing Account created to the Related Party" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
+          <mxGeometry x="490" y="290" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-48" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;exitX=0.003;exitY=0.651;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="WSzwoScoLJKDT1ZZIOws-47" parent="N79oA5ZzZffghEJr7JX8-1">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="330" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-50" value="Get OR Create Subscription Base :&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Creation of the Access Subscription and link it to the Billing Account&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Creation of the Billing Agreement and linking it to the Billing Account" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
+          <mxGeometry x="540" y="380" width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-51" value="Create Subscribed Product :&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Creation of the Billing Agreement Item to the subscribed product and link it to the subscribed Product" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
+          <mxGeometry x="540" y="515" width="440" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-54" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="N79oA5ZzZffghEJr7JX8-1" source="WSzwoScoLJKDT1ZZIOws-50">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="340" y="400" as="targetPoint" />
+            <mxPoint x="540.0000000000002" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-55" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="N79oA5ZzZffghEJr7JX8-1" source="WSzwoScoLJKDT1ZZIOws-51">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="350" y="460" as="targetPoint" />
+            <mxPoint x="474.8200000000001" y="530.64" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-56" value="&lt;div&gt;Related Party mandatory for WS request&lt;br&gt;Customer.getRelatedParties(0)&lt;/div&gt;" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
+          <mxGeometry x="570" y="120" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-57" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;exitX=-0.005;exitY=0.45;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="N79oA5ZzZffghEJr7JX8-1" source="WSzwoScoLJKDT1ZZIOws-56">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="220" y="187" as="targetPoint" />
+            <mxPoint x="585.6599999999999" y="169.99999999999994" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
