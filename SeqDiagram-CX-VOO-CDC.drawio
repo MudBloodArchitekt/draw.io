@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-03T14:59:11.103Z" agent="5.0 (X11)" etag="Y8EPZdlo_E8l4c1PVs_0" version="14.4.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-04T13:26:41.155Z" agent="5.0 (X11)" etag="awgtwvGuZ6dVGxK2uHbM" version="14.4.2" type="github" pages="4">
   <diagram name=" SeqDiagram-CX-VOO-CDC" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1590" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -599,19 +599,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WSzwoScoLJKDT1ZZIOws-47" value="Get OR Create a Billing Account :&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Link the Billing Account created to the Related Party" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
-          <mxGeometry x="490" y="290" width="340" height="50" as="geometry" />
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-47" value="Get &amp;amp; delete the Billing Account if exist  and all linked items;&lt;br&gt;Then Create a Billing Account :&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Link the Billing Account created to the Related Party" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
+          <mxGeometry x="490" y="270" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WSzwoScoLJKDT1ZZIOws-48" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;exitX=0.003;exitY=0.651;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="WSzwoScoLJKDT1ZZIOws-47" parent="N79oA5ZzZffghEJr7JX8-1">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="330" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WSzwoScoLJKDT1ZZIOws-50" value="Get OR Create Subscription Base :&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Creation of the Access Subscription and link it to the Billing Account&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Creation of the Billing Agreement and linking it to the Billing Account" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-50" value="Get if exists &amp;amp; delete Subscription Base and all linked items;&lt;br&gt; -&amp;gt; then Create a Subscription Base :&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Creation of the Access Subscription and link it to the Billing Account&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Creation of the Billing Agreement and linking it to the Billing Account" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
           <mxGeometry x="540" y="380" width="410" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="WSzwoScoLJKDT1ZZIOws-51" value="Check if Subscribed Products Exist&lt;br&gt;IF YES &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; -&amp;gt; Remove Subscribed Products and all linked items&lt;br&gt;ELSE&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; -&amp;gt; Create Subscribed Product &amp;amp; Creation of the Billing Agreement Item to the subscribed product and link it to the subscribed Product" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
-          <mxGeometry x="540" y="515" width="440" height="165" as="geometry" />
+        <mxCell id="WSzwoScoLJKDT1ZZIOws-51" value="&lt;br&gt;&lt;div&gt;- Remove Subscribed Products and all linked items;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;-&amp;gt; Then Create Subscribed Product &amp;amp; Creation of the Billing Agreement Item to the subscribed product and link it to the subscribed Product" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="N79oA5ZzZffghEJr7JX8-1">
+          <mxGeometry x="540" y="530" width="440" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WSzwoScoLJKDT1ZZIOws-54" value="" style="edgeStyle=none;endArrow=none;dashed=1;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="N79oA5ZzZffghEJr7JX8-1" source="WSzwoScoLJKDT1ZZIOws-50">
           <mxGeometry x="1" relative="1" as="geometry">
