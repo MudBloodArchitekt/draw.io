@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T12:25:49.153Z" agent="5.0 (X11)" etag="bv_fKD_V1IkITjkyCyLi" version="14.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-10T12:26:07.693Z" agent="5.0 (X11)" etag="vX83GTkMISwSI1xNY2xp" version="14.4.4" type="github" pages="4">
   <diagram name=" SeqDiagram-CX-VOO-CDC" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1590" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -524,8 +524,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c8vhBXWLEfz38IBFdJqJ-4" value="Order contains Mobile &amp;amp; new MSISDN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="0ydwUsu693ctStghU8HK-1">
-          <mxGeometry x="308" y="160" width="220" height="20" as="geometry" />
+        <mxCell id="c8vhBXWLEfz38IBFdJqJ-4" value="Order contains Mobile &amp;amp; new MSISDN requested" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="0ydwUsu693ctStghU8HK-1">
+          <mxGeometry x="308" y="150" width="280" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
