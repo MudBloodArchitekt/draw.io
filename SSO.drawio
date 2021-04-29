@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T14:13:18.141Z" agent="5.0 (X11)" etag="6cguXxtrUl7P0Bv8-1dZ" version="14.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-29T14:13:43.974Z" agent="5.0 (X11)" etag="6LzTq009zyB7Hg3tmyBx" version="14.6.0" type="github" pages="2">
   <diagram name="SignIn v4 client authentifié" id="ywt-HCj624KQIoi7aklT">
     <mxGraphModel dx="1659" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -201,7 +201,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Page-2" id="DxPstZGoQyDB_6V48d0W">
+  <diagram name="SSO-CX-CDC" id="DxPstZGoQyDB_6V48d0W">
     <mxGraphModel dx="1659" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="YwtZZnCojxIVyrU9BSWU-0" />
