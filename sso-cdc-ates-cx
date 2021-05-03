@@ -1,0 +1,45 @@
+@startuml
+
+autonumber
+
+skinparam sequence {
+ParticipantBorderColor Black
+ParticipantBackgroundColor White
+ParticipantFontName Impact
+ParticipantFontSize 17
+ParticipantFontColor #0d0c0c
+
+ActorFontSize 17
+ActorFontName Aapex
+}
+
+
+participant  MyVoo as voo
+box "Internal Service" #LightBlue
+ participant  "Hybris"   as cx
+ participant  "SAP CDC" as cdc
+end box
+participant  MyVOOWebAPi as api
+
+voo -> cx : redirect to OneFunnel
+activate cx
+  cx -> api : checkConnection(channel=funnel)
+    activate api
+      api -> api : "check JWT validity"
+      activate api
+      deactivate api
+        alt success case
+            |||
+            api --> cx : authenticated : redirect to OneFunnel
+            cx -> cdc : accounts.notifyLogin
+             activate cdc
+               cdc --> cx : success
+             deactivate cdc
+            |||
+        else failure case
+            api --> cx : Failed: Redirection to login page
+    deactivate api
+deactivate cx
+        end
+
+@enduml
