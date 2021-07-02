@@ -21,18 +21,17 @@ box "Internal Service" #LightBlue
 end box
 participant  MyVOOWebAPi as api
 
-voo -> cx : redirect to OneFunnel
+voo -> cx : Post redirect to OneFunnel
 activate cx
-  cx -> api : checkConnection(channel=funnel)
+  cx -> api : catch cookie to be validated
     activate api
-      api -> api : "check JWT validity"
+      api -> api : "check cookie validity"
       activate api
       deactivate api
         alt success case
             |||
-            api --> cx : authenticated : redirect to OneFunnel
-            cx -> api : get Customer info
-            api --> cx : success
+            api --> cx : cookie validated and Customer identified
+            cx -> cx : authenticate Customer.. session created
             cx -> cdc : accounts.notifyLogin
              activate cdc
                cdc --> cx : success
