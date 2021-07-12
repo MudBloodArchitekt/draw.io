@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T12:57:51.717Z" agent="5.0 (X11)" etag="FYeAhpLlzm2_qrkF2TzK" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T13:15:25.772Z" agent="5.0 (X11)" etag="nwuxAFpav2b212Bnjepu" version="14.8.5" type="github">
   <diagram name="SignIn from CDC v6" id="cgOO9hKr6s6Ct5GbvhBF">
     <mxGraphModel dx="1662" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,10 +20,10 @@
           <mxGeometry x="54" y="1120" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a5XRInmC_ehQdrehasMf-5" value="SAP CDC" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="a5XRInmC_ehQdrehasMf-1" vertex="1">
-          <mxGeometry x="503" y="80" width="100" height="1090" as="geometry" />
+          <mxGeometry x="503" y="80" width="100" height="1270" as="geometry" />
         </mxCell>
         <mxCell id="a5XRInmC_ehQdrehasMf-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="a5XRInmC_ehQdrehasMf-5" vertex="1">
-          <mxGeometry x="44" y="100" width="10" height="990" as="geometry" />
+          <mxGeometry x="44" y="100" width="10" height="1170" as="geometry" />
         </mxCell>
         <mxCell id="a5XRInmC_ehQdrehasMf-9" value="ATES" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="a5XRInmC_ehQdrehasMf-1" vertex="1">
           <mxGeometry x="926" y="81" width="100" height="279" as="geometry" />
@@ -165,7 +165,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YUQtsa73p3g_cmJX8-zG-3" value="&lt;pre&gt;&lt;b&gt;13- Replicate Update&lt;/b&gt;&lt;/pre&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="a5XRInmC_ehQdrehasMf-1" edge="1">
-          <mxGeometry x="0.1779" y="23" relative="1" as="geometry">
+          <mxGeometry x="-0.0675" y="23" relative="1" as="geometry">
             <mxPoint x="547" y="1303" as="targetPoint" />
             <mxPoint x="384" y="1303" as="sourcePoint" />
             <mxPoint as="offset" />
