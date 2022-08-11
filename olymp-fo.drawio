@@ -1,1 +1,339 @@
-<mxfile host="app.diagrams.net" modified="2022-08-11T09:14:08.370Z" agent="5.0 (Macintosh)" etag="3mgUQoG3HIwbEGoWtPvz" version="20.0.4" type="github"><diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">7Ztbd6M2EMc/jR/tw8XYzmNsnGRPN61PvKftPiqggBpArhC+7KfvCMRVOHEah/XmkAcbDbox8+PPSDgDcxHubxna+PfUxcHA0Nz9wLQHhmFokwl8Ccshs+i6ZWUWjxFX2krDmvzA0qhJa0JcHNcqckoDTjZ1o0OjCDu8ZkOM0V292hMN6qNukIcVw9pBgWr9i7jczy9D08oTd5h4vhx6ZskTj8h59hhNIjleRCOcnQlR3o2sGvvIpbuKyVwOzAWjlGdH4X6BA+HX3GNZu5sjZ4spMxzxUxpEt9Hqn7v76exxFT+419aP33+bD3XZzRYFifTFmngRWL6ID9GboQlLsoGDb1TEwMfOM3zThMsL44fcjz4PAzjSB+Y85ow+4wUNKANL6hdz/kSCIDcNDFPTplf2BOwBesTBisaEExrBOQeuCUOl+RYzTiBOXxsVQuK6YtCiwnUgpm3anG7AimSp6OeJRlxip4Pn5zD5gEQwvZwnTUx5gxwSed9EF/ZwIptV5nuT/omaz5g7ft7MRxvRcbj3xO0xgkniEG1GGXRz6WCYJ94fDZ1eAAE3GaYh5uwAVWSDqagvmsj7ayyR2lVYnUqbX8E0tyF5e3hFzyUncCBReQM2U4WaBWKAg7YS19xT0QkV1uR1KowuqZgpVNxBzz0Vp1NBwuxB5XMunnzXqf7eOG6kjQg8+55I5GI2cmgIVhdxBF/CHsN3jOkQRe4wRAwGhKkNtzRIQjw04SSwAp+6Nh5aujHaRN4Z8MtxuxT6rhT6Voy6iSNk6SuJeZ4G9Bx2ok7G+MLUKc81WwFxMUck6BHpFJGxdmmIjBVErm37Yblep7nwBIVpFNJPsNjLr1/+XD5873nphperExKeSae8TNQ8WK6OVFr+YPDs7lHpBhXdvLTkWFfXTCt0CMX19Ex0w4R+cUyoOatNtiQW0WlCsfPBIWvwrSjvwEXglAooSqyaIS1izRnGNzRwIUayrbDc021piPBu6Xp4nY8+BfdP/k3ETtUcFycKU7pQKc4Hj7TSuqxkLMpCzBHj12Lj7kgv2T5aa1scuW9oObXPtAWj1Zc7k1kLPFoLPJOPgsewFHgUaApfFdpRQSbdtsSuvP/AD+zwtyiMrLz4XdZMC/a+WtM+VEsrzAhclQAvNWYTEai87G5DAxA8zF+4zFl7WCput1q8ntsYDhAn2/o02kIhR1hRIgS5kIxG1C2rEc2YJszBslV187XR0ZXRWC2bjY4yPygdpWQUl/0OWNSnzy8Hy8+CYGwZ54Gg2ZGudwyBukHXQ3AiBKamj6zzYKB21TkIat4xR5DDqcuTV7KOEog0B2GOzA4t7U0pSZbl5m/e0q4SDmlqlmmWOSWUxh1kMBEn/PCQ8kKjy0llaqNiL1s6VBoKiCpVnIRtITS1GmdLh2B9VSfYminp0Kzlbmw+9s6WDeUdv6htFSKOBbkW0EIDVVXMAwC4aaWz22TyiLK9mvjkN+kJQTlzlmNopynbueTIVF9CLxA4MY7F7wx6ReoV6RRFMuqKZJiqIrUu0D5OkoxfTJL+z/LM7EiSZh1LkqnE7h5HSa9GvRqdpkZjvcavaahq1PaLnY8TI/XV1icUI7MTMTKbG8IfLUbqTt8tCgIssej1qNejt67XxtrPXq+pr04/oR5ZnejR+MSdqLPpkbqP2OtRr0fv0qOW12nd6pG6JfoJ9ejIy7RzvyXLffduPYJi+Q8SWfXyP1DM5X8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-11T13:25:35.789Z" agent="5.0 (Macintosh)" etag="4x50v8TL0IV2MNA7NDxZ" version="20.0.4" type="github">
+  <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
+    <mxGraphModel dx="2066" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E_TodVGE-pGcknKpYchJ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="349.5" y="-583" as="sourcePoint" />
+            <mxPoint x="554.5" y="-582" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="-582" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-28" value="&lt;b&gt;Home Page&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-680" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="E_TodVGE-pGcknKpYchJ-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="739.5" y="-120" as="sourcePoint" />
+            <mxPoint x="969.5" y="-120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="890" y="-120" />
+              <mxPoint x="890" y="-620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-30" value="&lt;b&gt;Product detail page&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-680" width="120" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E_TodVGE-pGcknKpYchJ-31" target="E_TodVGE-pGcknKpYchJ-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="739.5" y="-311" as="targetPoint" />
+            <mxPoint x="554.5" y="-311" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="670" y="-240" />
+              <mxPoint x="670" y="-610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-31" value="&lt;b&gt;Product List page&lt;br&gt;/&lt;br&gt;Category Grid&amp;nbsp; Page&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-680" width="190" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-44" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="E_TodVGE-pGcknKpYchJ-31">
+          <mxGeometry x="174" y="120" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="E_TodVGE-pGcknKpYchJ-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="969.5" y="-320" as="sourcePoint" />
+            <mxPoint x="1321.5" y="-320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1170" y="-320" />
+              <mxPoint x="1170" y="-600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-87" value="redirect TO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E_TodVGE-pGcknKpYchJ-74">
+          <mxGeometry x="0.1313" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-32" value="&lt;b&gt;Cart Page&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-680" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E_TodVGE-pGcknKpYchJ-33" target="E_TodVGE-pGcknKpYchJ-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2070" y="-320" />
+              <mxPoint x="2070" y="-570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-94" value="redirect to" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E_TodVGE-pGcknKpYchJ-93">
+          <mxGeometry x="-0.0323" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-33" value="&lt;b&gt;Payment&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1867" y="-680" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E_TodVGE-pGcknKpYchJ-34" target="E_TodVGE-pGcknKpYchJ-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1860" y="-350" />
+              <mxPoint x="1860" y="-580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-95" value="redirect to" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E_TodVGE-pGcknKpYchJ-86">
+          <mxGeometry x="-0.1465" y="4" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-34" value="&lt;b&gt;ADDRESS &amp;amp; DELIVERY&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1647" y="-680" width="140" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E_TodVGE-pGcknKpYchJ-35" target="E_TodVGE-pGcknKpYchJ-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1527" y="-440" />
+              <mxPoint x="1527" y="-610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-35" value="&lt;b&gt;Sign In / Signup To check out&lt;/b&gt; &lt;b&gt;Page&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1237" y="-680" width="170" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-75" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="E_TodVGE-pGcknKpYchJ-35">
+          <mxGeometry x="160" y="120" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-76" value="login" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="E_TodVGE-pGcknKpYchJ-75" parent="E_TodVGE-pGcknKpYchJ-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-77" value="success" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="E_TodVGE-pGcknKpYchJ-75" parent="E_TodVGE-pGcknKpYchJ-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="196" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-81" value="&lt;b&gt;Sign Up&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" target="E_TodVGE-pGcknKpYchJ-103" parent="E_TodVGE-pGcknKpYchJ-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="83" y="290" as="sourcePoint" />
+            <mxPoint x="153" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E_TodVGE-pGcknKpYchJ-37" target="E_TodVGE-pGcknKpYchJ-96">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2250" y="-360" />
+              <mxPoint x="2250" y="-560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-101" value="Redirect TO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="E_TodVGE-pGcknKpYchJ-100">
+          <mxGeometry x="-0.1679" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-37" value="&lt;b&gt;Check &amp;amp; Order&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2092" y="-680" width="100" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-40" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="191" y="-680" width="20" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-45" value="look for a product" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="E_TodVGE-pGcknKpYchJ-44" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="557" y="-560" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-46" value="product preview" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="E_TodVGE-pGcknKpYchJ-44" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="557" y="-484" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="627" y="-440" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-48" value="fillter" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="E_TodVGE-pGcknKpYchJ-47" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="557" y="-440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-49" value="product(s)" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="E_TodVGE-pGcknKpYchJ-47" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="557" y="-364" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-50" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1" target="E_TodVGE-pGcknKpYchJ-28">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="201" y="-600" as="sourcePoint" />
+            <mxPoint x="281" y="-600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-54" value="select a product" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="615" y="-337" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-55" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-583" width="10" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-56" value="Fit advisor" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.3429" y="6" relative="1" as="geometry">
+            <mxPoint x="743" y="-584" as="sourcePoint" />
+            <mxPoint x="813" y="-584" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-57" value="list of product" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.8363" y="19" relative="1" as="geometry">
+            <mxPoint x="554.5" y="-469" as="targetPoint" />
+            <mxPoint x="811" y="-469" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-58" value="navigate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-605" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-60" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-410" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-61" value="choose a color" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.4286" y="10" relative="1" as="geometry">
+            <mxPoint x="740" y="-410" as="sourcePoint" />
+            <mxPoint x="810" y="-410" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-62" value="variant page updated" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="E_TodVGE-pGcknKpYchJ-60" parent="1">
+          <mxGeometry x="-0.7143" y="24" relative="1" as="geometry">
+            <mxPoint x="740" y="-334" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-63" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-260" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-64" value="ADD TO CART" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="E_TodVGE-pGcknKpYchJ-63" parent="1">
+          <mxGeometry x="0.7143" y="10" relative="1" as="geometry">
+            <mxPoint x="740" y="-260" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-65" value="Cart Updated" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="E_TodVGE-pGcknKpYchJ-63" parent="1">
+          <mxGeometry x="-1" y="39" relative="1" as="geometry">
+            <mxPoint x="740" y="-184" as="targetPoint" />
+            <mxPoint x="20" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-67" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-590" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-68" value="update QTY" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="E_TodVGE-pGcknKpYchJ-67" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="-590" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-69" value="&amp;nbsp;price/VAT/total /... Updated" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="E_TodVGE-pGcknKpYchJ-67" parent="1">
+          <mxGeometry x="-1" y="24" relative="1" as="geometry">
+            <mxPoint x="970" y="-514" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-71" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-440" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-72" value="apply Voucher" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="E_TodVGE-pGcknKpYchJ-71" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="-440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-73" value="price updated " style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="E_TodVGE-pGcknKpYchJ-71" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="-364" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-79" value="&lt;b&gt;redirect to&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="-470" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-83" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="-550" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-84" value="select Delivery Address" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="E_TodVGE-pGcknKpYchJ-83" parent="1">
+          <mxGeometry x="0.7143" y="30" relative="1" as="geometry">
+            <mxPoint x="1720" y="-550" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-85" value="Delivery Address updated" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="E_TodVGE-pGcknKpYchJ-83" parent="1">
+          <mxGeometry x="-1" y="24" relative="1" as="geometry">
+            <mxPoint x="1720" y="-474" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-88" value="redirect TO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-425" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-90" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="2010" y="-520" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-91" value="select Payment Type" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" parent="1" source="E_TodVGE-pGcknKpYchJ-33">
+          <mxGeometry x="0.3439" y="10" relative="1" as="geometry">
+            <mxPoint x="1941" y="-520" as="sourcePoint" />
+            <mxPoint x="2011" y="-520" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-92" value="Payment method&amp;nbsp; updated" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.6" y="24" relative="1" as="geometry">
+            <mxPoint x="1918" y="-444" as="targetPoint" />
+            <mxPoint x="2008" y="-444" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-96" value="&lt;b&gt;Order Confirmation&lt;/b&gt; &lt;b&gt;Page&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="-680" width="150" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-97" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="-545" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-98" value="confirm Order" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="E_TodVGE-pGcknKpYchJ-97" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2140" y="-545" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-99" value="Order Created" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="E_TodVGE-pGcknKpYchJ-97" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2140" y="-469" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="E_TodVGE-pGcknKpYchJ-103" target="E_TodVGE-pGcknKpYchJ-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1617" y="-220" />
+              <mxPoint x="1617" y="-610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-103" value="&lt;b&gt;Account creation&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1437" y="-680" width="150" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-104" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="-340" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-105" value="create account" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="E_TodVGE-pGcknKpYchJ-104" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1510" y="-340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_TodVGE-pGcknKpYchJ-106" value="Account Created" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="E_TodVGE-pGcknKpYchJ-104" parent="1">
+          <mxGeometry x="-0.7143" y="24" relative="1" as="geometry">
+            <mxPoint x="1510" y="-264" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
