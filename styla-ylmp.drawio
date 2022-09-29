@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T13:16:53.673Z" agent="5.0 (Macintosh)" etag="FRWSXLNsBdmCn8XMvWzl" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-29T12:09:24.224Z" agent="5.0 (Macintosh)" etag="ujhSeXTB1FWQAoI-LfeR" version="20.3.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1426" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
             <mxPoint x="350" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nccHA3XHwkP4lEpM9j3j-10" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;inject HTML: &lt;br&gt;&lt;/li&gt;&lt;li&gt;Head&lt;br&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;meta tags&lt;/li&gt;&lt;li&gt;CSS&lt;/li&gt;&lt;li&gt;js&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Body&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Divs contains Content managed by Styla &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="nccHA3XHwkP4lEpM9j3j-10" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;inject HTML: &lt;br&gt;&lt;/li&gt;&lt;li&gt;Head&lt;br&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;meta tags&lt;/li&gt;&lt;li&gt;CSS&lt;/li&gt;&lt;li&gt;js&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Body&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Multiple Divs contain Content managed by Styla :&lt;/li&gt;&lt;ul&gt;&lt;li&gt;images&lt;/li&gt;&lt;li&gt;videos&lt;/li&gt;&lt;li&gt;product caroussel&lt;/li&gt;&lt;li&gt;...&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="190" y="400" width="320" height="230" as="geometry" />
         </mxCell>
         <mxCell id="nccHA3XHwkP4lEpM9j3j-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.1;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nccHA3XHwkP4lEpM9j3j-14" target="3nuBFxr9cyL0pnOWT2aG-6">
