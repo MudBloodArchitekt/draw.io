@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T13:46:53.752Z" agent="5.0 (Macintosh)" etag="JE884_1-uFmptiCFRSBo" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-11T13:51:05.773Z" agent="5.0 (Macintosh)" etag="twVxttX0KjxJrZzu8Hav" version="20.4.0" type="github">
   <diagram id="Igpn4x7Hh1Ou4ungXVDS" name="Page-1">
     <mxGraphModel dx="2526" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sMMQY6d1q4D462ROFIbD-132" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;labelBackgroundColor=#7EA6E0;fontSize=12;fontColor=#000000;" vertex="1" parent="sMMQY6d1q4D462ROFIbD-110">
-          <mxGeometry x="180" y="550" width="10" height="80" as="geometry" />
+          <mxGeometry x="180" y="550" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sMMQY6d1q4D462ROFIbD-133" value="" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;fontSize=12;fontColor=#000000;" edge="1" target="sMMQY6d1q4D462ROFIbD-132" parent="sMMQY6d1q4D462ROFIbD-110">
           <mxGeometry relative="1" as="geometry">
@@ -56,7 +56,7 @@
         </mxCell>
         <mxCell id="sMMQY6d1q4D462ROFIbD-134" value="&lt;b&gt;Shopping feeds job finished successfully&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;fontSize=12;fontColor=#000000;" edge="1" source="sMMQY6d1q4D462ROFIbD-132" parent="sMMQY6d1q4D462ROFIbD-110">
           <mxGeometry x="-1" y="78" relative="1" as="geometry">
-            <mxPoint x="120" y="626" as="targetPoint" />
+            <mxPoint x="120" y="607" as="targetPoint" />
             <mxPoint x="70" y="-44" as="offset" />
           </mxGeometry>
         </mxCell>
