@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T11:11:51.022Z" agent="5.0 (Macintosh)" etag="6MF1OZ5qv8r4GoFO7yW7" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-12T11:16:12.444Z" agent="5.0 (Macintosh)" etag="A6e6CoQ29dEh4kUJFEmf" version="20.4.0" type="github">
   <diagram id="Igpn4x7Hh1Ou4ungXVDS" name="Page-1">
     <mxGraphModel dx="2398" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -137,11 +137,11 @@
         <mxCell id="sMMQY6d1q4D462ROFIbD-150" value="path of the&amp;nbsp; export folder:&lt;br&gt;/customer/sftp/shoppingFeeds" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=none;strokeColor=default;strokeWidth=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="790" y="620" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sMMQY6d1q4D462ROFIbD-151" value="&lt;b&gt;images are saved as String Fields in the ShoppingFeedBean Object with many Media Formats&lt;br&gt;&lt;/b&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=default;strokeWidth=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="sMMQY6d1q4D462ROFIbD-151" value="&lt;b&gt;images are saved as String Fields in the ShoppingFeedBean Object with many Media Formats&lt;br&gt;&lt;/b&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#36393d;strokeWidth=1;fontFamily=Helvetica;fontSize=12;fillColor=#cdeb8b;" vertex="1" parent="1">
           <mxGeometry x="1230" y="480" width="300" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sMMQY6d1q4D462ROFIbD-152" value="&lt;strong style=&quot;color: rgb(14, 16, 26); background: transparent; margin-top:0pt; margin-bottom:0pt;&quot;&gt;&lt;span data-preserver-spaces=&quot;true&quot; style=&quot;color: rgb(14, 16, 26); background: transparent; margin-top:0pt; margin-bottom:0pt;;&quot;&gt;Particular Exceptions are handled during the job execution and do not abort the CronJob.&lt;/span&gt;&lt;/strong&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=default;strokeWidth=1;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="670" width="300" height="100" as="geometry" />
+        <mxCell id="sMMQY6d1q4D462ROFIbD-152" value="&lt;strong style=&quot;color: rgb(14, 16, 26); background: transparent; margin-top:0pt; margin-bottom:0pt;&quot;&gt;&lt;span data-preserver-spaces=&quot;true&quot; style=&quot;color: rgb(14, 16, 26); background: transparent; margin-top:0pt; margin-bottom:0pt;;&quot;&gt;Particular Exceptions are handled during the job execution and do not abort the CronJob.&lt;/span&gt;&lt;/strong&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#0e8088;strokeWidth=1;fontFamily=Helvetica;fontSize=12;fillColor=#b0e3e6;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="670" width="300" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
